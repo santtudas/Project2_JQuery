@@ -2,7 +2,7 @@
 Todo-list app with jQuery
 
 ## Demo link:
-Access my site at [Netlify.com](https://verdant-platypus-992c0e.netlify.app).
+Access my site at [Netlify.com](https://spontaneous-mandazi-2db351.netlify.app/).
 
 ## How was the workload divided
 I did everything on my own. 
@@ -13,10 +13,10 @@ I did everything on my own.
 - [Setup](#setup)
 
 ## About The App
-Movie App is and app where user can see what movies are played at what theaters around Helsinki metropolitan area.
+[Todo-list] is an app that allows the user to create a todo-list.
 
 ## Technologies
-This project was built using HTML, CSS, and JavaScript.
+This project was built using HTML, CSS, and jQuery Javascript library.
 
 ## Setup
-You can view the Movie App through the previously mentioned link on Netlify.com.
+You can view the Todo-list through the previously mentioned link on Netlify.com.
