@@ -1,5 +1,5 @@
 # Project Title 
-Todo-list app with jQuery
+Todo-list app with jQuery.
 
 ## Demo link:
 Access my site at [Netlify.com](https://spontaneous-mandazi-2db351.netlify.app/).
