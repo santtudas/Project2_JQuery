@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo-list</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="container text-center mt-4">
+    <h1 class="mb-4">Todo-list</h1>
+
+    <div id="textBox" class="input-group mb-3 w-50 mx-auto">
+      <input id="textfield" type="text" class="form-control" placeholder="What todo?">
+      <button id="addButton" class="btn btn-primary">Add</button>
+    </div>
+
+    <div id="Lista" class="mb-4"></div>
+
+    <div class="d-flex justify-content-center gap-2">
+      <button id="clearButton" class="btn btn-warning" onclick="remove()">Clear completed</button>
+      <button id="clearButtonAll" class="btn btn-danger" onclick="removeAll()">Clear all</button>
+      <button id="hideButton" class="btn btn-secondary" onclick="hideSelected()">Hide completed</button>
+      <button id="showButton" class="btn btn-success" onclick="showSelected()">Show completed</button>
+    </div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
