@@ -16,7 +16,7 @@ I did everything on my own.
 [Todo-list] is an app that allows the user to create a todo-list.
 
 ## Technologies
-This project was built using HTML, CSS, and jQuery Javascript library.
+This project was built using HTML, CSS, Bootstrap and jQuery Javascript library.
 
 ## Setup
 You can view the Todo-list through the previously mentioned link on Netlify.com.
